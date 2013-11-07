@@ -16,3 +16,7 @@ Hubspot::factory('Contacts')->create_contact([
     'lifecyclestage'=> 'lead'
 ]);
 ```
+
+
+----
+This module is released under an [MIT opensource license](http://opensource.org/licenses/MIT)
